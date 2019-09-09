@@ -21,6 +21,6 @@ It should look something like this:
   * **Samantha Nyovanie**
 2. Favorite podcast:
   * *On Second Thought: The Trevor Noah Podcast*
-3. [Github repository](https://github.com/snyovanie/EDA-Assignments.git) 
+3. [GitHub repository](https://github.com/snyovanie/EDA-Assignments.git) 
 
 Once you are done, commit your changes, and push to GitHub. 
